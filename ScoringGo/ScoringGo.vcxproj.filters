@@ -29,5 +29,8 @@
     <None Include="go.ans">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="go.map">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
